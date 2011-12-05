@@ -1,4 +1,4 @@
-// The Code:
+// The HashMap:
 
 public class HashMap {
     private int size;
