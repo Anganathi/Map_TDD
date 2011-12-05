@@ -5,7 +5,6 @@ public class HashMap {
     private ArrayList<LinkedList<Element>> array;
 
     public HashMap() {
-        this.empty = true;
         this.size = 0;
         this.array = new ArrayList<LinkedList<Element>>(128);
 
