@@ -1,7 +1,6 @@
 // The Code:
 
 public class HashMap {
-    private boolean empty;
     private int size;
     private ArrayList<LinkedList<Element>> array;
 
