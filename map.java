@@ -1,3 +1,7 @@
+// The following code is a series of test that were written in the order you'll read them. After
+// each test was written it was run against the HashMap and the implementation was updated if it
+// failed. The HashMap code is the final implementation that was built naively to pass each test.
+
 // The Tests:
 
 public class HashMapTest {
